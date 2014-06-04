@@ -2,7 +2,7 @@ How to use the widget
 -------------------------
 Add this to any page, and you're golden: ([**See the demo!**][2])
 ```
-<script src="//fightforthefuture.github.io/reset-the-net-widget/widget/rtn.js" async></script>
+<script src="//centrefordigitalcultures.github.io/reset-the-net-widget/widget/rtn.js" async></script>
 ```
 
 
@@ -24,5 +24,5 @@ Modern browsers, and the two latest versions of Internet Explorer.
 
 
 [1]: https://www.resetthenet.org
-[2]: https://fightforthefuture.github.io/reset-the-net-widget/demo.html
-[3]: https://fightforthefuture.github.io/reset-the-net-widget/demo_mobile.html
+[2]: https://centrefordigitalcultures.github.io/reset-the-net-widget/demo.html
+[3]: https://centrefordigitalcultures.github.io/reset-the-net-widget/demo_mobile.html
