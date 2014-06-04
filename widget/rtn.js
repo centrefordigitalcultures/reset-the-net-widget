@@ -7,7 +7,7 @@ if (typeof _rtn_options.iframe_base_path == "undefined") _rtn_options.iframe_bas
 if (typeof _rtn_options.animation == "undefined") _rtn_options.animation = 'main';
 if (typeof _rtn_options.delay == "undefined") _rtn_options.delay = 0;
 if (typeof _rtn_options.debug == "undefined") _rtn_options.debug = false;
-if (typeof _rtn_options.always_show_widget == "undefined") _rtn_options.always_show_widget = true;
+if (typeof _rtn_options.always_show_widget == "undefined") _rtn_options.always_show_widget = false;
 
 var _rtn_animations = {
 	main: {
