@@ -3,7 +3,7 @@
 
 
 if (typeof _rtn_options == "undefined") _rtn_options = {};
-if (typeof _rtn_options.iframe_base_path == "undefined") _rtn_options.iframe_base_path = 'https://fightforthefuture.github.io/reset-the-net-widget/widget/iframe';
+if (typeof _rtn_options.iframe_base_path == "undefined") _rtn_options.iframe_base_path = 'https://centrefordigitalcultures.github.io/reset-the-net-widget/widget/iframe';
 if (typeof _rtn_options.animation == "undefined") _rtn_options.animation = 'main';
 if (typeof _rtn_options.delay == "undefined") _rtn_options.delay = 0;
 if (typeof _rtn_options.debug == "undefined") _rtn_options.debug = false;
